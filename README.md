@@ -1,2 +1,2 @@
 # LIFE
- Offical life repository
+ Offical LIFE repository
